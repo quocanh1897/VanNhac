@@ -17,7 +17,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_css_UserPage_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_assets_css_UserPage_css__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _assets_css_PlaylistDetail_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/css/PlaylistDetail.css */ "./src/assets/css/PlaylistDetail.css");
 /* harmony import */ var _assets_css_PlaylistDetail_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_css_PlaylistDetail_css__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/PlaylistDetailPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/PlaylistDetailPage.js";
 
 
 

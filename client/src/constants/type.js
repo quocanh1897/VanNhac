@@ -13,4 +13,4 @@ export const SET_AUDIOLIST = 'SET_AUDIOLIST';
 export const REMOVE_SONG_FROM_QUEUE = 'REMOVE_SONG';
 
 //logo link
-export const LOGO_LINK = 'https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true';
+export const LOGO_LINK = 'https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true';

@@ -14,7 +14,7 @@ const options = {
       name: "",
       singer: "--",
       cover:
-        "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
+        "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
       musicSrc: ""
     }
   ],
@@ -56,7 +56,7 @@ class FooterPlayer extends React.Component {
             name: this.props.nowPlayingName,
             singer: this.props.nowPlayingArtist,
             cover:
-              "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
+              "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
             musicSrc: this.props.nowPlayingLink
           }
         ]

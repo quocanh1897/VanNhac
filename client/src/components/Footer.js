@@ -4,7 +4,7 @@ import "../assets/css/Footer.css"
 class Footer extends React.Component {
   
   render() {
-    return <footer > @copyright by maynhac </footer>;
+    return <footer > @copyright by vannhac </footer>;
   }
 }
 

@@ -7,7 +7,7 @@ import { getSongInfo } from "../actions/getSongInfoAction";
 import { showSongPlayer, hideSongPlayer, addSongToQueue } from "../actions/uiActions";
 
 const logo =
-  "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true";
+  "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true";
 
 class CommentPart extends React.Component {
 

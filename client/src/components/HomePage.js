@@ -114,7 +114,7 @@ class HomePage extends React.Component {
           <Image
             className="music-card-img"
             src={obj.avatar?obj.avatar:types.LOGO_LINK}
-            alt="https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true"
+            alt="https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true"
           />
 
           <Button.Group className="music-card-button" size="large">

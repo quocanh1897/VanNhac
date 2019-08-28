@@ -444,7 +444,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_SearchPage__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./components/SearchPage */ "./src/components/SearchPage.js");
 /* harmony import */ var _actions_uiActions__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./actions/uiActions */ "./src/actions/uiActions.js");
 /* harmony import */ var _components_PlaylistDetailPage__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./components/PlaylistDetailPage */ "./src/components/PlaylistDetailPage.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/App.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/App.js";
 
 
 
@@ -1934,7 +1934,7 @@ if(true) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/ChartPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/ChartPage.js";
 
 
 class ChartPage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
@@ -1970,13 +1970,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var semantic_ui_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! semantic-ui-react */ "./node_modules/semantic-ui-react/dist/es/index.js");
 /* harmony import */ var _services_SongService__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../services/SongService */ "./src/services/SongService.js");
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/Comment.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/Comment.js";
 
 
 
 
 
-const logo = "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true";
+const logo = "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true";
 
 class CommentPart extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
   render() {
@@ -2153,7 +2153,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _assets_css_Footer_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/css/Footer.css */ "./src/assets/css/Footer.css");
 /* harmony import */ var _assets_css_Footer_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_assets_css_Footer_css__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/Footer.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/Footer.js";
 
 
 
@@ -2165,7 +2165,7 @@ class Footer extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
         lineNumber: 7
       },
       __self: this
-    }, " @copyright by maynhac ");
+    }, " @copyright by vannhac ");
   }
 
 }
@@ -2183,7 +2183,7 @@ class Footer extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _assets_css_FooterPlayer_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/css/FooterPlayer.css */ "./src/assets/css/FooterPlayer.css");
@@ -2196,7 +2196,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jinke_music_player_assets_index_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-jinke-music-player/assets/index.css */ "./node_modules/react-jinke-music-player/assets/index.css");
 /* harmony import */ var react_jinke_music_player_assets_index_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_jinke_music_player_assets_index_css__WEBPACK_IMPORTED_MODULE_7__);
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/FooterPlayer.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/FooterPlayer.js";
 
 
 
@@ -2209,7 +2209,7 @@ const options = {
   audioLists: [{
     name: "",
     singer: "--",
-    cover: "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
+    cover: "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
     musicSrc: ""
   }],
   playIndex: 0,
@@ -2252,11 +2252,11 @@ class FooterPlayer extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Componen
     if (this.props.showPlayer) {
       console.log("LINK HERE: " + this.props.nowPlayingLink);
 
-      let data = Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, options, {
+      let data = Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, options, {
         audioLists: [{
           name: this.props.nowPlayingName,
           singer: this.props.nowPlayingArtist,
-          cover: "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
+          cover: "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
           musicSrc: this.props.nowPlayingLink
         }]
       });
@@ -2333,7 +2333,7 @@ function mapDispatchToProps(dispatch) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _assets_css_Header_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/css/Header.css */ "./src/assets/css/Header.css");
@@ -2350,7 +2350,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_9__);
 /* harmony import */ var _SearchPage__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./SearchPage */ "./src/components/SearchPage.js");
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/Header.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/Header.js";
 
 
 
@@ -2738,7 +2738,7 @@ class Header extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
 }
 
 const mapStateToProps = state => {
-  return Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
+  return Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
 };
 
 const mapDispatchToProps = dispatch => {
@@ -2762,7 +2762,7 @@ const mapDispatchToProps = dispatch => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var antd__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd */ "./node_modules/antd/es/index.js");
@@ -2784,7 +2784,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var uri_js__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(uri_js__WEBPACK_IMPORTED_MODULE_13__);
 /* harmony import */ var _services_SongService__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../services/SongService */ "./src/services/SongService.js");
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/HomePage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/HomePage.js";
 
 
 
@@ -2806,7 +2806,7 @@ function SamplePrevArrow(props) {
         onClick = props.onClick;
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     className: className,
-    style: Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, style, {
+    style: Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, style, {
       display: "block",
       background: "white"
     }),
@@ -2885,7 +2885,7 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
   }
 
   handlePlaySong(obj) {
-    const newObj = Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, obj, {
+    const newObj = Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, obj, {
       link: uri_js__WEBPACK_IMPORTED_MODULE_13__["serialize"](uri_js__WEBPACK_IMPORTED_MODULE_13__["parse"](obj.link))
     });
 
@@ -2920,7 +2920,7 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_7__["Image"], {
       className: "music-card-img",
       src: obj.avatar,
-      alt: "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
+      alt: "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 104
@@ -3171,7 +3171,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_css_ListSong_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/css/ListSong.css */ "./src/assets/css/ListSong.css");
 /* harmony import */ var _assets_css_ListSong_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_css_ListSong_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _SongSearchItem__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./SongSearchItem */ "./src/components/SongSearchItem.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/ListSong.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/ListSong.js";
 
 
 
@@ -3259,7 +3259,7 @@ function mapDispatchToProps(dispatch) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_modal__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-modal */ "./node_modules/react-modal/lib/index.js");
@@ -3287,7 +3287,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _services_UserService__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../services/UserService */ "./src/services/UserService.js");
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/LoginModal.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/LoginModal.js";
 
 
 
@@ -3572,7 +3572,7 @@ class LoginModal extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component 
 }
 
 const mapStateToProps = state => {
-  return Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
+  return Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
 };
 
 const mapDispatchToProps = dispatch => {
@@ -3605,7 +3605,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_imgs_playlist_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/imgs/playlist.jpg */ "./src/assets/imgs/playlist.jpg");
 /* harmony import */ var _assets_imgs_playlist_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_assets_imgs_playlist_jpg__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _history__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../history */ "./src/history.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/PlaylistCard.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/PlaylistCard.js";
 
 
 
@@ -3695,7 +3695,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_css_UserPage_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_assets_css_UserPage_css__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _assets_css_PlaylistDetail_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/css/PlaylistDetail.css */ "./src/assets/css/PlaylistDetail.css");
 /* harmony import */ var _assets_css_PlaylistDetail_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_css_PlaylistDetail_css__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/PlaylistDetailPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/PlaylistDetailPage.js";
 
 
 
@@ -3859,7 +3859,7 @@ class PlaylistDetailPage extends react__WEBPACK_IMPORTED_MODULE_0__["Component"]
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/PlaylistPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/PlaylistPage.js";
 
 
 class TopPage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
@@ -3891,7 +3891,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _PlaylistCard__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PlaylistCard */ "./src/components/PlaylistCard.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/Playlists.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/Playlists.js";
 
 
 
@@ -3933,7 +3933,7 @@ class Playlists extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var antd__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd */ "./node_modules/antd/es/index.js");
@@ -3955,7 +3955,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var uri_js__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(uri_js__WEBPACK_IMPORTED_MODULE_13__);
 /* harmony import */ var _services_SongService__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../services/SongService */ "./src/services/SongService.js");
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/Recommend.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/Recommend.js";
 
 
 
@@ -3977,7 +3977,7 @@ function SamplePrevArrow(props) {
         onClick = props.onClick;
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     className: className,
-    style: Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, style, {
+    style: Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, style, {
       display: "block",
       background: "white"
     }),
@@ -4009,7 +4009,7 @@ class RecommendPart extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Compone
   }
 
   handlePlaySong(obj) {
-    const newObj = Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, obj, {
+    const newObj = Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, obj, {
       link: uri_js__WEBPACK_IMPORTED_MODULE_13__["serialize"](uri_js__WEBPACK_IMPORTED_MODULE_13__["parse"](obj.link))
     });
 
@@ -4044,7 +4044,7 @@ class RecommendPart extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Compone
     }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_7__["Image"], {
       className: "music-card-img",
       src: obj.avatar,
-      alt: "https://github.com/trungnhanuchiha/maynhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
+      alt: "https://github.com/trungnhanuchiha/vannhac/blob/server/client/src/assets/imgs/logo.jpg?raw=true",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 66
@@ -4229,7 +4229,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _constants_type__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../constants/type */ "./src/constants/type.js");
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
 /* harmony import */ var _ListSong__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./ListSong */ "./src/components/ListSong.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/SearchPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/SearchPage.js";
 
 
 
@@ -4364,7 +4364,7 @@ function mapDispatchToProps(dispatch) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
@@ -4380,7 +4380,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Recommend__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./Recommend */ "./src/components/Recommend.js");
 /* harmony import */ var _services_SongService__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../services/SongService */ "./src/services/SongService.js");
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/SongInfoPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/SongInfoPage.js";
 
 
 
@@ -4420,7 +4420,7 @@ class SongInfoPage extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
   }
 
   handlePlaySong(obj) {
-    const newObj = Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, obj, {
+    const newObj = Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, obj, {
       link: uri_js__WEBPACK_IMPORTED_MODULE_6__["serialize"](uri_js__WEBPACK_IMPORTED_MODULE_6__["parse"](obj.link))
     });
 
@@ -4849,7 +4849,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _constants_type__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../constants/type */ "./src/constants/type.js");
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
 /* harmony import */ var reactjs_popup__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! reactjs-popup */ "../node_modules/reactjs-popup/reactjs-popup.es.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/SongSearchItem.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/SongSearchItem.js";
 
 
 
@@ -4987,7 +4987,7 @@ function mapDispatchToProps(dispatch) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/TopPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/TopPage.js";
 
 
 class TopPage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
@@ -5026,7 +5026,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
 /* harmony import */ var _services_SongService__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../services/SongService */ "./src/services/SongService.js");
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/UploadPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/UploadPage.js";
 
 
 
@@ -5752,7 +5752,7 @@ const mapStateToProps = state => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
@@ -5761,7 +5761,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _services_PlaylistService__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../services/PlaylistService */ "./src/services/PlaylistService.js");
 /* harmony import */ var _Playlists__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Playlists */ "./src/components/Playlists.js");
 
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/components/UserPage.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/components/UserPage.js";
 
 
 
@@ -5909,7 +5909,7 @@ class UserPage extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
 }
 
 const mapStateToProps = state => {
-  return Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
+  return Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
 };
 
 const mapDispatchToProps = dispatch => {
@@ -6052,7 +6052,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var redux_persist_lib_stateReconciler_autoMergeLevel2__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(redux_persist_lib_stateReconciler_autoMergeLevel2__WEBPACK_IMPORTED_MODULE_10__);
 /* harmony import */ var redux_persist_lib_integration_react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! redux-persist/lib/integration/react */ "./node_modules/redux-persist/lib/integration/react.js");
 /* harmony import */ var redux_persist_lib_integration_react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(redux_persist_lib_integration_react__WEBPACK_IMPORTED_MODULE_11__);
-var _jsxFileName = "/Volumes/DATA/Project/maynhac/client/src/index.js";
+var _jsxFileName = "/Volumes/DATA/Project/vannhac/client/src/index.js";
 
 
 
@@ -6111,7 +6111,7 @@ _serviceWorker__WEBPACK_IMPORTED_MODULE_4__["unregister"]();
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
+/* harmony import */ var _Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread */ "./node_modules/@babel/runtime/helpers/esm/objectSpread.js");
 /* harmony import */ var redux_persist_lib_stateReconciler_autoMergeLevel2__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! redux-persist/lib/stateReconciler/autoMergeLevel2 */ "./node_modules/redux-persist/lib/stateReconciler/autoMergeLevel2.js");
 /* harmony import */ var redux_persist_lib_stateReconciler_autoMergeLevel2__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(redux_persist_lib_stateReconciler_autoMergeLevel2__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var redux_persist_lib_storage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! redux-persist/lib/storage */ "./node_modules/redux-persist/lib/storage/index.js");
@@ -6130,17 +6130,17 @@ const initalState = {
 
 const reducer = (state = initalState, action) => {
   if (action.type === _constants_type__WEBPACK_IMPORTED_MODULE_4__["LOGIN"]) {
-    return Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state, {
+    return Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state, {
       username: action.payload.username,
       jwt: action.payload.jwt
     });
   } else if (action.type === _constants_type__WEBPACK_IMPORTED_MODULE_4__["LOGOUT"]) {
-    return Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state, {
+    return Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state, {
       username: '',
       jwt: ''
     });
   } else {
-    return Object(_Volumes_DATA_Project_maynhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
+    return Object(_Volumes_DATA_Project_vannhac_client_node_modules_babel_runtime_helpers_esm_objectSpread__WEBPACK_IMPORTED_MODULE_0__["default"])({}, state);
   }
 };
 
@@ -6762,8 +6762,8 @@ class UserService extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Volumes/DATA/Project/maynhac/client/node_modules/react-dev-utils/webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
-module.exports = __webpack_require__(/*! /Volumes/DATA/Project/maynhac/client/src/index.js */"./src/index.js");
+__webpack_require__(/*! /Volumes/DATA/Project/vannhac/client/node_modules/react-dev-utils/webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
+module.exports = __webpack_require__(/*! /Volumes/DATA/Project/vannhac/client/src/index.js */"./src/index.js");
 
 
 /***/ }),

@@ -1,4 +1,4 @@
-# :cloud: Website Maynhac
+# :cloud: Website Vân Nhạc
 
 A music app made with React + Redux + Nodejs
 
