@@ -1,0 +1,26 @@
+.sticky-floating-footer {
+    z-index: 2;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 50px;
+}
+
+.order-front{
+    position: relative;
+    z-index: 2;
+}
+
+.order-behind{
+    position: relative;
+    z-index: 1;
+}
+
+.progress-bar{
+    background-color: transparent;
+}
+
+button .order-front {
+    text-align: right;
+}

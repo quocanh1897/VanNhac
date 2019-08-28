@@ -1,0 +1,52 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.16.6",
+    "basscss": "^8.0.10",
+    "bootstrap": "^4.3.1",
+    "react": "^16.8.6",
+    "react-audio-spectrum": "0.0.9",
+    "react-autobind": "^1.0.6",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^10.1.4",
+    "react-google-login": "^5.0.4",
+    "react-jinke-music-player": "^4.2.3",
+    "react-modal": "^3.8.1",
+    "react-redux": "^7.0.3",
+    "react-scripts": "3.0.0",
+    "react-slick": "^0.24.0",
+    "react-soundplayer": "^1.0.4",
+    "recharts": "^1.6.0",
+    "react-textarea-autosize": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "slick-carousel": "^1.8.1",
+    "sweetalert": "^2.1.2",
+    "uri-js": "^4.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

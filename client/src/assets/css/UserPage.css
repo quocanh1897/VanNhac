@@ -1,0 +1,17 @@
+.user .container {
+    align-content: left;
+    text-align: left;
+    padding-bottom: 5%;
+}
+
+.user .left {
+    width: 20%;
+    position: relative;
+    float: left;
+}
+
+.user .right {
+    width: 80%;
+    position: relative;
+    float: right;
+}

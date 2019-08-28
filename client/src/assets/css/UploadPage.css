@@ -1,0 +1,50 @@
+.grid.container {
+    margin-top: 5em;
+    margin-top: 20px;
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.ui .form {
+    z-index: 1;
+}
+
+.upload-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.step-group {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.nav-panel {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.upload-box-wrapper {
+    margin: auto 20%;
+}
+
+.song-details-wrapper {
+    margin: auto 40%;
+}
+
+
+.upload-done-wrapper {
+    text-align: center;
+    margin: auto 40%;
+}
+
+.image-frame {
+    padding: 5%;
+}
